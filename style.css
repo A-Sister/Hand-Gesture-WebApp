@@ -1,0 +1,54 @@
+body
+{
+  color: white;
+  background: cadetblue;
+  text-align: center;
+}
+
+label{
+  font-size: 14;
+  background-color:cornsilk;
+  border-radius: 5px;
+  color:cornflowerblue;
+  padding-bottom:5px;
+  padding-top:5px;
+  padding-right:5px;
+  padding-left: 5px;
+}
+
+.heading{
+  letter-spacing: 10px;
+  font-size: 20px;
+}
+
+span{
+  font-size: 30px;
+}
+
+#camera , #result{
+  border: 2px dotted black;
+  width: 350px;
+  height: 300px; 
+}
+
+#emotion_name
+{
+  font-size: 40px;
+  color:black;
+}
+#emoji{
+  font-size:48px;
+}
+
+#labelU{
+    color:darkslateblue;
+    background-color: cadetblue;
+}
+
+.linecolor{
+    color:ivory;
+}
+
+.border{
+   border:5px double darkslateblue;
+}
